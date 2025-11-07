@@ -1,4 +1,4 @@
-# Operating System Lab – Bash Scripting
+# Operating System Lab 
 
 ## 📘 Overview
 This repository is a collection of Bash scripts and concepts I learned during my Operating System Lab which showcases core shell scripting, system commands, process management, file handling, and automation.
