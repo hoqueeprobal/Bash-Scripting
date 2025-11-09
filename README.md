@@ -8,3 +8,6 @@ This repository is a collection of Bash scripts and concepts I learned during my
 - Learn to write and execute **Bash scripts** efficiently.  
 - Automate repetitive system administration tasks.  
 - Implement **process control**, **file manipulation**, and **text processing** using Bash utilities.
+
+## 📚 Topics Covered
+- Introduction to the Bash shell
