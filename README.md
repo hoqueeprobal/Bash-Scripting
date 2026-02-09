@@ -13,3 +13,5 @@ This repository is a collection of Bash scripts and concepts I learned during my
 - Introduction to the Bash shell
 - Shell Variables and User Input
 - Arithmetic Operator and Conditional statements
+- Loops
+- Special Problems
