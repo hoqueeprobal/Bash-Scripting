@@ -12,6 +12,8 @@ This repository contains multiple pattern programs including:
 - **Right-Angled Star Triangle**
 - **Reverse Star Triangle**
 - **Left-Angled Star Triangle**
+- **Number Triangle**
+- **Reverse Number Triangle**
 
 ---
 
