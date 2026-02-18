@@ -12,8 +12,12 @@ This repository contains multiple pattern programs including:
 - **Right-Angled Star Triangle**
 - **Reverse Star Triangle**
 - **Left-Angled Star Triangle**
+- **Star Pyramid**
+- **Reverse Star Pyramid**
+- **Square Star Pattern**
 - **Number Triangle**
 - **Reverse Number Triangle**
+- **Right-Angled Number Triangle with Increment**
 
 ---
 
@@ -21,7 +25,8 @@ This repository contains multiple pattern programs including:
 - **for loops in Bash**
 - **Nested loop logic**
 - **Arithmetic expansion (( ))**
+- **Structured pattern-building techniques**
 
----
+This project is ideal for beginners who want hands-on practice with loops and pattern logic in **Bash scripting**.
 
 
